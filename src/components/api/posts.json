@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "title": "Vite vs CRA",
+    "body": "Vite is significantly faster because it uses native ES modules during development and esbuild for pre-bundling."
+  },
+  {
+    "id": 2,
+    "userId": 4,
+    "title": "TypeScript Generics",
+    "body": "Generics allow you to create reusable components that can work with a variety of types while maintaining type safety."
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "title": "React 19 Compiler",
+    "body": "The new React Compiler automatically memoizes components and hooks, reducing the need for manual useMemo and useCallback."
+  }
+]
