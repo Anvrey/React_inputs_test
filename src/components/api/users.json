@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "username": "andrii_v",
+    "name": "Andrii Vanin"
+  },
+  {
+    "id": 2,
+    "username": "kpi_coder",
+    "name": "Igor Shevchenko"
+  },
+  {
+    "id": 3,
+    "username": "frontend_fan",
+    "name": "Olena Petrenko"
+  },
+  {
+    "id": 4,
+    "username": "ai_researcher",
+    "name": "Dmytro Kovalenko"
+  },
+  {
+    "id": 5,
+    "username": "ts_master",
+    "name": "Svitlana Ivanova"
+  },
+  {
+    "id": 6,
+    "username": "react_dev",
+    "name": "Maxim Bondarenko"
+  }
+]
